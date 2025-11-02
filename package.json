@@ -1,0 +1,11 @@
+{
+  "name": "realcart",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd packages/api && bun run dev"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
